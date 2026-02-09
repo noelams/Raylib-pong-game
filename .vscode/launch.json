@@ -39,7 +39,7 @@
             "name": "Debug NoPremake",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/bin/Debug/${workspaceFolderBasename}.exe",
+            "program": "${workspaceFolder}/bin/Debug/${workspaceFolderBasename}",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
